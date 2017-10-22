@@ -14,6 +14,7 @@ import dagger.Component;
 /**
  * @author arunsasidharan
  * @author pulkitkumar
+ * @author vipin gs
  */
 @Singleton
 @Component(modules = {

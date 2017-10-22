@@ -12,7 +12,7 @@ import java.util.List;
 import io.reactivex.Observable;
 
 /**
- * @author arun
+ * @author Vipin G S
  */
 class MoviesListingInteractorImpl implements MoviesListingInteractor {
     private FavoritesInteractor favoritesInteractor;

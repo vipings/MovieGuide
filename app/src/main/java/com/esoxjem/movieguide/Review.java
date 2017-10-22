@@ -5,6 +5,7 @@ import android.os.Parcelable;
 
 /**
  * @author arun
+ * @author vipin gs
  */
 public class Review implements Parcelable
 {
